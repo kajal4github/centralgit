@@ -1,3 +1,9 @@
 Hi! This is file5
 
+<<<<<<< HEAD
 Hooray!!! I am in file5
+=======
+Hooray!!!
+
+
+>>>>>>> parent of 190775b (Revert "modifying file5)"-Need some more changes)
